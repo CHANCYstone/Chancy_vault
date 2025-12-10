@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My_inbox/phd_怎么套磁.md",
+                "file": "My_inbox/自我管理问题-script.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "phd_怎么套磁"
+              "title": "自我管理问题-script"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My_inbox/phd_怎么套磁.md",
+                "file": "My_inbox/自我管理问题-script.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "phd_怎么套磁 的大纲"
+              "title": "自我管理问题-script 的大纲"
             }
           },
           {
@@ -257,6 +257,7 @@
   },
   "active": "b0218bd7b950e500",
   "lastOpenFiles": [
+    "My_inbox/phd_怎么套磁.md",
     "My_inbox/自我管理问题-script.md",
     "test-文件夹/test-script.md",
     "My_inbox/未命名 21.md",
