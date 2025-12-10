@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"33ae20c2bc0f7241","type":"file","file":"My_inbox/2024-12-09.md","x":0,"y":0,"width":400,"height":617},
+		{"id":"423af4357f37b27e","type":"file","file":"My_inbox/2024-12-10.md","x":452,"y":0,"width":400,"height":617},
+		{"id":"2adc1afd597b73e3","type":"file","file":"My_inbox/2024-12-11.md","x":933,"y":0,"width":400,"height":617},
+		{"id":"ebb72c2fe56bde41","type":"text","text":"\n","x":-559,"y":-1,"width":393,"height":618},
+		{"id":"ce775495d4c03018","x":1523,"y":0,"width":400,"height":617,"type":"file","file":"003_Management/02_时间管理/2024-12-12.md"}
+	],
+	"edges":[]
+}

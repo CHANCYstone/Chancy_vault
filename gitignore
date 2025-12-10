@@ -1,0 +1,16 @@
+# 系统垃圾
+.DS_Store
+
+# Obsidian 一些本地状态（不影响笔记内容）
+.obsidian/workspace.json
+.obsidian/plugins/translate/data.json
+.obsidian/workspace-mobile.json
+.obsidian/vault-stats.json
+
+# （推荐）忽略所有插件的数据文件，防止 API Key 被写进去
+.obsidian/plugins/**/data.json
+.obsidian/plugins/**/settings.json
+
+# 如果某个插件你很确定不会存秘钥，也可以按需放开
+# 比如：
+# !.obsidian/plugins/calendar/settings.json

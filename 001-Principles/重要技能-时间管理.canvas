@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"81922adfcf73b92b","type":"file","file":"My_inbox/lex-时间管理法.md","x":-428,"y":-277,"width":546,"height":1049},
+		{"id":"1f795b4b11d54594","type":"file","file":"My_inbox/ScrumMaster时间管理大全.md","x":337,"y":-277,"width":802,"height":1049},
+		{"id":"55c3118a1159c3a9","type":"file","file":"My_inbox/《吃掉那只青蛙》.md","x":1422,"y":-277,"width":764,"height":1049},
+		{"id":"f52f36bbc40d14c4","type":"file","file":"001-Principles/系统1-做事儿的系统.md","x":338,"y":1110,"width":893,"height":897},
+		{"id":"0e10d82b33abad02","x":1422,"y":1110,"width":764,"height":871,"type":"text","text":""}
+	],
+	"edges":[]
+}

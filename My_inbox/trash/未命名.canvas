@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"8e9526baa4bec0e0","x":-117,"y":-178,"width":250,"height":60,"type":"text","text":""},
+		{"id":"6e9b495684b22e5a","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"ae81da9b98ae50f9","x":-460,"y":0,"width":860,"height":400,"type":"file","file":"My_inbox/assets/Untitled 10.md"}
+	],
+	"edges":[]
+}

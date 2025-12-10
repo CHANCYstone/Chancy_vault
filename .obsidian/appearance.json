@@ -1,0 +1,11 @@
+{
+  "accentColor": "#201d1e",
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "textFontFamily": "Avenir",
+  "enabledCssSnippets": [
+    "body ",
+    "headings-color"
+  ]
+}

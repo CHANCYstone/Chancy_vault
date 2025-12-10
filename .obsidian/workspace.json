@@ -1,0 +1,316 @@
+{
+  "main": {
+    "id": "46696d9c506a11d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "db160e7d106e5f78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0218bd7b950e500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My_inbox/芝加哥大学布斯商学院的约翰・H・科克伦（John H. Cochrane）教授.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "芝加哥大学布斯商学院的约翰・H・科克伦（John H. Cochrane）教授"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd0aa764cdf52ae2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2917dccfd452f4ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db23cf6fe100de5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1fcd3b56859a6cdc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sk-",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6348ae8aab476aa5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4b8112b96e255e39",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc6972150ca11950",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36fc3c0e275b5786",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3f2b4fc8940a055e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "507b4d1cfff9b582",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "My_inbox/芝加哥大学布斯商学院的约翰・H・科克伦（John H. Cochrane）教授.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "芝加哥大学布斯商学院的约翰・H・科克伦（John H. Cochrane）教授 的大纲"
+            }
+          },
+          {
+            "id": "09b6e5d189f8c648",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "040e40531130fafc",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "9463decca8610491",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "21849f73635b5196",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "24ea87a3ad5c2907",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My_inbox/phd还是选调还是企业？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "phd还是选调还是企业？ 的反向链接列表"
+            }
+          },
+          {
+            "id": "3c8743340af23de7",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "bc2379160bd55356",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "My_inbox/phd还是选调还是企业？.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "phd还是选调还是企业？ 的出链列表"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "copilot:Open Copilot Chat": false,
+      "juggl:Juggl global graph": false,
+      "translate:Open translation view": false,
+      "sidebar-highlights:Open highlights": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "b0218bd7b950e500",
+  "lastOpenFiles": [
+    "gitignore",
+    "My_inbox/values.md",
+    "My_inbox/trash/Untitled 2.md",
+    "My_inbox/How are artificial intelligence, carbon market, and energy sector connected? A systematic analysis of time-frequency spillovers.md",
+    "My_inbox/Focus in 21th.md",
+    "My_inbox/career 研究.md",
+    "My_inbox/宁苑资产面试.md",
+    "My_inbox/论文思路.canvas",
+    "My_inbox/理论基础@毕设.md",
+    "My_inbox/0-1Geopolitical risk and dynamic connectedness between commodity markets.md",
+    "My_inbox/芝加哥大学布斯商学院的约翰・H・科克伦（John H. Cochrane）教授.md",
+    "My_inbox/文献整理@AI&Energy.md",
+    "My_inbox/二次答辩@毕业论文.md",
+    "My_inbox/自我管理问题-script.md",
+    "ssh-keygen -t ed25519 -C \"你的GitHub邮箱\"\u001b[D.pub",
+    "ssh-keygen -t ed25519 -C \"你的GitHub邮箱\"\u001b[D",
+    "My_inbox/obsidian-git联动-script.md",
+    "My_inbox/个人战略规划-script.md",
+    "My_inbox/WRITING-Script-Moc.md",
+    "My_inbox/关于个人管理问题的思考-script.md",
+    "My_inbox/提升社交的水平-script.md",
+    "My_inbox/提升决策的质量-script.md",
+    "000_Writing/001-毕业论文-AI与能源/毕业论文MOC.md",
+    "My_inbox/《人生十年，不可辜负的20岁到30岁》.md",
+    "003_Management/02_时间管理/2025-12-03.md",
+    "My_inbox/读书笔记-MOC.md",
+    "My_inbox/《面厚心黑》.md",
+    "My_inbox/中国革命的战略问题-script.md",
+    "003_Management/03-Projects/Projects_小红书document分享/考研-复试篇1.md",
+    "assets/images/1765195957 1.jpeg",
+    "assets/images/1765195957.jpeg",
+    "assets/images/945763a7f9b284e3e48f82ab889cafa2.jpg",
+    "assets/images/8a01531711d0482c917dfedf0218aa92.jpg",
+    "assets/images/截屏2025-11-21 20.51.04.png",
+    "assets/images/截屏2025-11-21 20.50.15.png",
+    "assets/images/Pasted image 20251115201318.png",
+    "assets/images/截屏2025-11-15 19.52.53.png",
+    "assets/images/截屏2025-11-15 19.37.05.png",
+    "assets/images/截屏2025-11-15 15.33.43.png",
+    "003_Management/02_时间管理/Kuvshinov和Zimmermann - 2022 - The big bang Stock market capitalization in the long run.pdf",
+    "未命名.canvas",
+    "My_inbox/对于学习的再理解.canvas",
+    "000_Writing/001-毕业论文-AI与能源",
+    "未命名 2",
+    "未命名 1",
+    "000_Writing/Reading&Writing/毕业论文",
+    "未命名",
+    "001-Principles/principle_thinking-为什么一下午时间投入完成不了能源发展报告？ 1.canvas",
+    "001-Principles/重要技能-时间管理.canvas",
+    "001-Principles/principle_thinking-为什么一下午时间投入完成不了能源发展报告？.canvas",
+    "001-Principles/Principle_thinking的原理.canvas",
+    "My_inbox/未命名.canvas",
+    "My_inbox/董承非投资/101个因子pdf版.pdf",
+    "My_inbox/AI",
+    "My_inbox/未命名 1.canvas"
+  ]
+}

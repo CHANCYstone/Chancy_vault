@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"1f17a3f1e96d6a40","type":"text","text":"","x":2305,"y":1442,"width":250,"height":60},
+		{"id":"e8551130357938dd","type":"file","file":"My_inbox/目标-ASK why.md","x":0,"y":0,"width":880,"height":1280},
+		{"id":"80e054469b9d069c","type":"file","file":"My_inbox/Fast 和 Smart.md","x":1071,"y":0,"width":942,"height":1280},
+		{"id":"5a35798fd8d5850f","type":"file","file":"My_inbox/好文-志与目标.md","x":2263,"y":0,"width":996,"height":1280},
+		{"id":"eb6b2ab6c62e8fa5","x":0,"y":1603,"width":880,"height":1445,"type":"file","file":"My_inbox/《吃掉那只青蛙》.md"}
+	],
+	"edges":[]
+}

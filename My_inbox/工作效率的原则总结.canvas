@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d3fe3e69c57412c6","x":-217,"y":-298,"width":250,"height":60,"type":"text","text":""},
+		{"id":"2b339609ebfb86c8","x":-125,"y":-30,"width":405,"height":90,"type":"text","text":"**Principle1** 每天设定特定时间段专注于某一个目标，避免多任务并行导致效率低下。"}
+	],
+	"edges":[]
+}

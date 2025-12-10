@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"e86a0e9aab0f5dbd","x":-384,"y":-77,"width":214,"height":276,"type":"text","text":"MIT\n\nHarvard\n\nStanford\n\nChicago\n\nPen\n"},
+		{"id":"4aa16c7399360da8","x":-125,"y":-77,"width":226,"height":276,"type":"text","text":"UCL\n\nCambridge\n\nETH\n\nHEC"}
+	],
+	"edges":[]
+}

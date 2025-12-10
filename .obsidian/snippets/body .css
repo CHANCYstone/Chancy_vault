@@ -1,0 +1,18 @@
+body {
+    --bold-color:RoyalBlue;
+    --bold-weight:700;
+    .cm-s-obsidian span.cm-formatting-highlight,
+    .cm-s-obsidian span.cm-highlight {
+     color: #000000; 
+    background-color: rgba(255, 100, 100, 0.45) !important;
+
+}
+
+div.cm-line span.cm-strong {
+	color: var(--bold-color) !important;
+	font-weight: var(--bold-weight)!important;
+}
+div p strong {
+	color: var(--bold-color) !important;
+	font-weight: var(--bold-weight)!important;
+}

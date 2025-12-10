@@ -1,0 +1,15 @@
+{
+  "activities": [
+    {
+      "frequency": "weekly",
+      "name": "newgoal1",
+      "emoji": "✨",
+      "max": "10",
+      "startColor": "#FFFFFF",
+      "endColor": "#FFFFFF"
+    }
+  ],
+  "hideWhenClosed": false,
+  "askForWeight": true,
+  "useWeekFile": false
+}

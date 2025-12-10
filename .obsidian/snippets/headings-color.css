@@ -1,0 +1,31 @@
+.markdown-preview-view h1,
+.cm-s-obsidian .HyperMD-header-1 {
+  color: #6C63FF; /* 蓝紫主色 */
+  background: linear-gradient(90deg, #6C63FF, #A37BFF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 800;
+  border-bottom: 2px solid rgba(108, 99, 255, 0.25);
+  padding-bottom: 4px;
+}
+
+.markdown-preview-view h2,
+.cm-s-obsidian .HyperMD-header-2 {
+  color: #FF8C42;
+  background: linear-gradient(90deg, #FF8C42, #FFAF7B);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+  border-left: 4px solid rgba(255, 140, 66, 0.25);
+  padding-left: 8px;
+}
+
+.markdown-preview-view h3,
+.cm-s-obsidian .HyperMD-header-3 {
+  color: #00C49A;
+  background: linear-gradient(90deg, #00C49A, #5BE7C4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+  opacity: 0.9;
+}

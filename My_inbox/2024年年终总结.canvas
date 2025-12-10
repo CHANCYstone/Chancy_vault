@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"9e0e2f27424f907e","type":"file","file":"My_inbox/时间钟.md","x":1769,"y":-1155,"width":400,"height":400},
+		{"id":"279f981b9c5a181f","type":"file","file":"001-Principles/1-基本原则【进化的原则】.md","x":0,"y":0,"width":400,"height":400},
+		{"id":"8da9524ee2dfe7a5","type":"file","file":"001-Principles/2-原则【有意义的工作】.md","x":460,"y":0,"width":400,"height":400},
+		{"id":"69d578185c373df1","type":"file","file":"001-Principles/3-原则【有意义的人际关系】.md","x":933,"y":0,"width":414,"height":400},
+		{"id":"e7e90b22f9ec141f","type":"text","text":"原则：9-10","x":535,"y":-227,"width":250,"height":60},
+		{"id":"bde748f429d6224c","type":"file","file":"assets/images/Pasted image 20250101171840.png","x":460,"y":-678,"width":400,"height":300},
+		{"id":"8788742f5e8148c1","type":"text","text":"9月初和彻底放弃","x":535,"y":-910,"width":250,"height":60},
+		{"id":"5ca21462a3870d8e","type":"text","text":"8.11 汇报 8.21说这件事","x":535,"y":-1046,"width":250,"height":60},
+		{"id":"6040f2fbfad18624","type":"file","file":"assets/images/85138daf1a42d7c9ab00ddf6d4692396.jpeg","x":460,"y":-1409,"width":400,"height":300},
+		{"id":"74c693b831be5a27","type":"text","text":"7.21 去参加社会实践","x":535,"y":-1563,"width":250,"height":60},
+		{"id":"26863772b7e9d3c8","type":"text","text":"6月份去了潮汕玩","x":535,"y":-1706,"width":250,"height":60},
+		{"id":"17ee05b3f725df65","type":"text","text":"5月份去了婺源","x":535,"y":-1833,"width":250,"height":60},
+		{"id":"645f0afb6b209b51","type":"text","text":"4月份不知道干啥去了","x":535,"y":-1951,"width":250,"height":60},
+		{"id":"72b85ba422aea342","type":"text","text":"3月份在搞考研自媒体\n然后和殷诗玮说很糟糕的话\n自己超级难受","x":535,"y":-2104,"width":250,"height":107},
+		{"id":"c7b8c580ee88813b","type":"text","text":"2月份过年开始健身","x":535,"y":-2219,"width":250,"height":60},
+		{"id":"92daf55874e86572","type":"text","text":"1月份去泉州玩","x":535,"y":-2340,"width":250,"height":60},
+		{"id":"727f65c7ec4ed4e3","type":"text","text":"心碎的2024\n","x":115,"y":-2050,"width":174,"height":247}
+	],
+	"edges":[
+		{"id":"24eac6e133251c1b","fromNode":"e7e90b22f9ec141f","fromSide":"bottom","toNode":"279f981b9c5a181f","toSide":"top"},
+		{"id":"d7b5d41d1c87cf31","fromNode":"e7e90b22f9ec141f","fromSide":"bottom","toNode":"8da9524ee2dfe7a5","toSide":"top"},
+		{"id":"4301fc544e23bb73","fromNode":"e7e90b22f9ec141f","fromSide":"bottom","toNode":"69d578185c373df1","toSide":"top"},
+		{"id":"fb33f2fa9763c247","fromNode":"92daf55874e86572","fromSide":"left","toNode":"727f65c7ec4ed4e3","toSide":"right"},
+		{"id":"c154027470e2881c","fromNode":"c7b8c580ee88813b","fromSide":"left","toNode":"727f65c7ec4ed4e3","toSide":"right"},
+		{"id":"156f14c482a15278","fromNode":"72b85ba422aea342","fromSide":"left","toNode":"727f65c7ec4ed4e3","toSide":"right"},
+		{"id":"2d2027de780b7c87","fromNode":"645f0afb6b209b51","fromSide":"left","toNode":"727f65c7ec4ed4e3","toSide":"right"},
+		{"id":"637270613b352ce2","fromNode":"17ee05b3f725df65","fromSide":"left","toNode":"727f65c7ec4ed4e3","toSide":"right"},
+		{"id":"3bdc2588cf2be8d7","fromNode":"26863772b7e9d3c8","fromSide":"left","toNode":"727f65c7ec4ed4e3","toSide":"right"}
+	]
+}

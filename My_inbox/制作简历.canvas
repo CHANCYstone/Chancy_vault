@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"383afb7c34092e1a","x":-400,"y":-280,"width":560,"height":580,"type":"text","text":"# 面向资本研究的简历\n\n### 教育背景\n山东大学 统计学（本科）\n专业成绩：GPA 85.0/100 （保留一位小数）\n主修课程：数学分析(95/100) ，统计软件 (98/100) , 时间序列分析 (96/100) , 多元统计分析(98/100)，应用回归分析（91/100）\n获奖情况：学业奖学金，两次；五一数学建模竞赛，三等奖；校数学建模竞赛，三等奖；全国大学生数学竞赛，三等奖。\n\n"},
+		{"id":"5f6fdd5c4c09c418","x":503,"y":1160,"width":397,"height":217,"type":"text","text":"# 构建我的知识背景\n\n对于以下的这些内容我可以深度的聊"},
+		{"id":"184fe2116c5f7454","x":-150,"y":1780,"width":503,"height":600,"type":"text","text":"# 经历1-数学建模的能力\n\n五一数学建模竞赛——疫苗生产顺序问题\n"},
+		{"id":"65ff2348c8ce4a46","type":"text","text":"# 经历2-算法实现的能力\n\nEM算法的加速\n","x":450,"y":1780,"width":503,"height":600},
+		{"id":"c82f5c8337509cac","x":1030,"y":1780,"width":540,"height":600,"type":"text","text":"# 经历3-高频时间序列的处理和应用\n"},
+		{"id":"ed56777828878f86","x":577,"y":1560,"width":250,"height":60,"type":"text","text":"# 技术背景"},
+		{"id":"da735c282101cf78","x":577,"y":2640,"width":250,"height":60,"type":"text","text":"# 知识背景"}
+	],
+	"edges":[
+		{"id":"10815544d42dda78","fromNode":"ed56777828878f86","fromSide":"bottom","toNode":"184fe2116c5f7454","toSide":"top"},
+		{"id":"659b664a860a503e","fromNode":"ed56777828878f86","fromSide":"bottom","toNode":"65ff2348c8ce4a46","toSide":"top"},
+		{"id":"2c0b6bce47963bca","fromNode":"ed56777828878f86","fromSide":"bottom","toNode":"c82f5c8337509cac","toSide":"top"}
+	]
+}

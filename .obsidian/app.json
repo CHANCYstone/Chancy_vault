@@ -1,0 +1,19 @@
+{
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "My_inbox",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "assets/images",
+  "userIgnoreFilters": [
+    "INBOX/"
+  ],
+  "promptDelete": false,
+  "spellcheck": true
+}
