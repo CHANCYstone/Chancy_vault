@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My_inbox/自我管理问题-script.md",
+                "file": "My_inbox/港科广--phd调查研究.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "自我管理问题-script"
+              "title": "港科广--phd调查研究"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My_inbox/自我管理问题-script.md",
+                "file": "My_inbox/港科广--phd调查研究.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "自我管理问题-script 的大纲"
+              "title": "港科广--phd调查研究 的大纲"
             }
           },
           {
@@ -257,8 +257,8 @@
   },
   "active": "b0218bd7b950e500",
   "lastOpenFiles": [
-    "My_inbox/phd_怎么套磁.md",
     "My_inbox/自我管理问题-script.md",
+    "My_inbox/phd_怎么套磁.md",
     "test-文件夹/test-script.md",
     "My_inbox/未命名 21.md",
     "test-文件夹",
