@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test-文件夹/test-script.md",
+                "file": "My_inbox/phd_怎么套磁.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "test-script"
+              "title": "phd_怎么套磁"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test-文件夹/test-script.md",
+                "file": "My_inbox/phd_怎么套磁.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "test-script 的大纲"
+              "title": "phd_怎么套磁 的大纲"
             }
           },
           {
@@ -257,9 +257,10 @@
   },
   "active": "b0218bd7b950e500",
   "lastOpenFiles": [
+    "My_inbox/自我管理问题-script.md",
+    "test-文件夹/test-script.md",
     "My_inbox/未命名 21.md",
     "test-文件夹",
-    "test-文件夹/test-script.md",
     "My_inbox/芝加哥大学布斯商学院的约翰・H・科克伦（John H. Cochrane）教授.md",
     "gitignore",
     "My_inbox/values.md",
@@ -273,7 +274,6 @@
     "My_inbox/0-1Geopolitical risk and dynamic connectedness between commodity markets.md",
     "My_inbox/文献整理@AI&Energy.md",
     "My_inbox/二次答辩@毕业论文.md",
-    "My_inbox/自我管理问题-script.md",
     "ssh-keygen -t ed25519 -C \"你的GitHub邮箱\"\u001b[D.pub",
     "ssh-keygen -t ed25519 -C \"你的GitHub邮箱\"\u001b[D",
     "My_inbox/obsidian-git联动-script.md",
