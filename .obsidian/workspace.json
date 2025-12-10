@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My_inbox/test-script.md",
+                "file": "test-文件夹/test-script.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My_inbox/test-script.md",
+                "file": "test-文件夹/test-script.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -259,7 +259,7 @@
   "lastOpenFiles": [
     "My_inbox/未命名 21.md",
     "test-文件夹",
-    "My_inbox/test-script.md",
+    "test-文件夹/test-script.md",
     "My_inbox/芝加哥大学布斯商学院的约翰・H・科克伦（John H. Cochrane）教授.md",
     "gitignore",
     "My_inbox/values.md",
