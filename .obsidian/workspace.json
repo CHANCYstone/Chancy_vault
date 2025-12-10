@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sk-",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,6 +257,9 @@
   },
   "active": "b0218bd7b950e500",
   "lastOpenFiles": [
+    "My_inbox/未命名 21.md",
+    "test-文件夹",
+    "My_inbox/test-script.md",
     "My_inbox/芝加哥大学布斯商学院的约翰・H・科克伦（John H. Cochrane）教授.md",
     "gitignore",
     "My_inbox/values.md",
@@ -285,8 +287,6 @@
     "003_Management/02_时间管理/2025-12-03.md",
     "My_inbox/读书笔记-MOC.md",
     "My_inbox/《面厚心黑》.md",
-    "My_inbox/中国革命的战略问题-script.md",
-    "003_Management/03-Projects/Projects_小红书document分享/考研-复试篇1.md",
     "assets/images/1765195957 1.jpeg",
     "assets/images/1765195957.jpeg",
     "assets/images/945763a7f9b284e3e48f82ab889cafa2.jpg",
@@ -304,7 +304,6 @@
     "未命名 2",
     "未命名 1",
     "000_Writing/Reading&Writing/毕业论文",
-    "未命名",
     "001-Principles/principle_thinking-为什么一下午时间投入完成不了能源发展报告？ 1.canvas",
     "001-Principles/重要技能-时间管理.canvas",
     "001-Principles/principle_thinking-为什么一下午时间投入完成不了能源发展报告？.canvas",
