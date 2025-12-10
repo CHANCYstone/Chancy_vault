@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My_inbox/芝加哥大学布斯商学院的约翰・H・科克伦（John H. Cochrane）教授.md",
+                "file": "My_inbox/test-script.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "芝加哥大学布斯商学院的约翰・H・科克伦（John H. Cochrane）教授"
+              "title": "test-script"
             }
           }
         ]
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My_inbox/芝加哥大学布斯商学院的约翰・H・科克伦（John H. Cochrane）教授.md",
+                "file": "My_inbox/test-script.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "芝加哥大学布斯商学院的约翰・H・科克伦（John H. Cochrane）教授 的大纲"
+              "title": "test-script 的大纲"
             }
           },
           {
@@ -252,11 +252,13 @@
       "juggl:Juggl global graph": false,
       "translate:Open translation view": false,
       "sidebar-highlights:Open highlights": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b0218bd7b950e500",
   "lastOpenFiles": [
+    "My_inbox/芝加哥大学布斯商学院的约翰・H・科克伦（John H. Cochrane）教授.md",
     "gitignore",
     "My_inbox/values.md",
     "My_inbox/trash/Untitled 2.md",
@@ -267,7 +269,6 @@
     "My_inbox/论文思路.canvas",
     "My_inbox/理论基础@毕设.md",
     "My_inbox/0-1Geopolitical risk and dynamic connectedness between commodity markets.md",
-    "My_inbox/芝加哥大学布斯商学院的约翰・H・科克伦（John H. Cochrane）教授.md",
     "My_inbox/文献整理@AI&Energy.md",
     "My_inbox/二次答辩@毕业论文.md",
     "My_inbox/自我管理问题-script.md",
@@ -310,7 +311,6 @@
     "001-Principles/Principle_thinking的原理.canvas",
     "My_inbox/未命名.canvas",
     "My_inbox/董承非投资/101个因子pdf版.pdf",
-    "My_inbox/AI",
     "My_inbox/未命名 1.canvas"
   ]
 }

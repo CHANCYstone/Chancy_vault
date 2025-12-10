@@ -34,7 +34,7 @@ This paper uses the
 **数据长这个样子一共650条数据，这种指数类的数据都是周数据**
 
 
-[[ADF or Unit root test]]
+[[test-script]]
 
 ![[截屏2025-06-18 15.26.58.png]]
 
