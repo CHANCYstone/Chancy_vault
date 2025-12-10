@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My_inbox/自我管理问题-script.md",
+                "file": "My_inbox/河南选调.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "自我管理问题-script"
+              "title": "河南选调"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My_inbox/自我管理问题-script.md",
+                "file": "My_inbox/河南选调.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "自我管理问题-script 的大纲"
+              "title": "河南选调 的大纲"
             }
           },
           {
@@ -226,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -254,12 +254,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "507b4d1cfff9b582",
+  "active": "b0218bd7b950e500",
   "lastOpenFiles": [
+    "My_inbox/行测-moc.md",
+    "My_inbox/行测-逻辑.md",
+    "assets/images/49e4ea019b866ead5779d644221c850d.jpg",
+    "003_Management/02_时间管理/2025-12-10.md",
+    "003_Management/03-Projects/选调-调查研究.md",
+    "My_inbox/选调-pro.md",
+    "My_inbox/自我管理问题-script.md",
     "assets/images/截屏2025-12-10 20.45.30.png",
     "assets/images/截屏2025-12-10 20.45.18.png",
     "My_inbox/个人战略规划-script.md",
-    "My_inbox/自我管理问题-script.md",
     "My_inbox/港科广--phd调查研究.md",
     "My_inbox/phd_怎么套磁.md",
     "test-文件夹/test-script.md",
@@ -283,11 +289,6 @@
     "My_inbox/obsidian-git联动-script.md",
     "My_inbox/WRITING-Script-Moc.md",
     "My_inbox/关于个人管理问题的思考-script.md",
-    "My_inbox/提升社交的水平-script.md",
-    "My_inbox/提升决策的质量-script.md",
-    "000_Writing/001-毕业论文-AI与能源/毕业论文MOC.md",
-    "My_inbox/《人生十年，不可辜负的20岁到30岁》.md",
-    "003_Management/02_时间管理/2025-12-03.md",
     "assets/images/1765195957 1.jpeg",
     "assets/images/1765195957.jpeg",
     "assets/images/945763a7f9b284e3e48f82ab889cafa2.jpg",
@@ -295,8 +296,6 @@
     "assets/images/截屏2025-11-21 20.51.04.png",
     "assets/images/截屏2025-11-21 20.50.15.png",
     "assets/images/Pasted image 20251115201318.png",
-    "assets/images/截屏2025-11-15 19.52.53.png",
-    "assets/images/截屏2025-11-15 19.37.05.png",
     "003_Management/02_时间管理/Kuvshinov和Zimmermann - 2022 - The big bang Stock market capitalization in the long run.pdf",
     "未命名.canvas",
     "My_inbox/对于学习的再理解.canvas",
