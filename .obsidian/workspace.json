@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My_inbox/行测-言语.md",
+                "file": "My_inbox/行测-数量.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "行测-言语"
+              "title": "行测-数量"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My_inbox/行测-言语.md",
+                "file": "My_inbox/行测-数量.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "行测-言语 的大纲"
+              "title": "行测-数量 的大纲"
             }
           },
           {
@@ -254,9 +254,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "507b4d1cfff9b582",
+  "active": "b0218bd7b950e500",
   "lastOpenFiles": [
     "My_inbox/河南选调.md",
+    "My_inbox/行测-言语.md",
     "My_inbox/行测-moc.md",
     "My_inbox/行测-逻辑.md",
     "assets/images/49e4ea019b866ead5779d644221c850d.jpg",
@@ -289,7 +290,6 @@
     "ssh-keygen -t ed25519 -C \"你的GitHub邮箱\"\u001b[D",
     "My_inbox/obsidian-git联动-script.md",
     "My_inbox/WRITING-Script-Moc.md",
-    "My_inbox/关于个人管理问题的思考-script.md",
     "assets/images/1765195957 1.jpeg",
     "assets/images/1765195957.jpeg",
     "assets/images/945763a7f9b284e3e48f82ab889cafa2.jpg",

@@ -342,6 +342,13 @@
       "startCount": 10816,
       "endCount": 10816,
       "date": "Wed Dec 10 2025 00:00:00 GMT+0800"
+    },
+    {
+      "dailyGoal": 1000,
+      "goal": 30000,
+      "startCount": 10816,
+      "endCount": 10816,
+      "date": "Thu Dec 11 2025 00:00:00 GMT+0800"
     }
   ],
   "000_Writing/Reading&Writing/毕业论文/1.md": [
@@ -687,6 +694,13 @@
       "startCount": 5408,
       "endCount": 5408,
       "date": "Wed Dec 10 2025 00:00:00 GMT+0800"
+    },
+    {
+      "dailyGoal": 100,
+      "goal": 100,
+      "startCount": 5408,
+      "endCount": 5408,
+      "date": "Thu Dec 11 2025 00:00:00 GMT+0800"
     }
   ],
   "My_inbox/未命名 12.md": [
@@ -1032,6 +1046,13 @@
       "startCount": 0,
       "endCount": 0,
       "date": "Wed Dec 10 2025 00:00:00 GMT+0800"
+    },
+    {
+      "dailyGoal": 500,
+      "goal": 1100,
+      "startCount": 0,
+      "endCount": 0,
+      "date": "Thu Dec 11 2025 00:00:00 GMT+0800"
     }
   ],
   "000_Writing/001-毕业论文-AI与能源/毕业论文@摘要.md": [
@@ -1363,6 +1384,13 @@
       "startCount": 0,
       "endCount": 0,
       "date": "Wed Dec 10 2025 00:00:00 GMT+0800"
+    },
+    {
+      "dailyGoal": 500,
+      "goal": 0,
+      "startCount": 0,
+      "endCount": 0,
+      "date": "Thu Dec 11 2025 00:00:00 GMT+0800"
     }
   ],
   "000_Writing/001-毕业论文-AI与能源/毕业论文MOC.md": [
@@ -1694,6 +1722,13 @@
       "startCount": 10002,
       "endCount": 10002,
       "date": "Wed Dec 10 2025 00:00:00 GMT+0800"
+    },
+    {
+      "dailyGoal": 0,
+      "goal": 500,
+      "startCount": 10002,
+      "endCount": 10002,
+      "date": "Thu Dec 11 2025 00:00:00 GMT+0800"
     }
   ],
   "000_Writing/001-毕业论文-AI与能源/毕业论文@绪论.md": [
