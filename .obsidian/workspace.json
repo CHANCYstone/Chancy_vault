@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My_inbox/港科广--phd调查研究.md",
+                "file": "My_inbox/自我管理问题-script.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "港科广--phd调查研究"
+              "title": "自我管理问题-script"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My_inbox/港科广--phd调查研究.md",
+                "file": "My_inbox/自我管理问题-script.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "港科广--phd调查研究 的大纲"
+              "title": "自我管理问题-script 的大纲"
             }
           },
           {
@@ -230,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
-    "collapsed": true
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,8 +254,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0218bd7b950e500",
+  "active": "507b4d1cfff9b582",
   "lastOpenFiles": [
+    "My_inbox/港科广--phd调查研究.md",
     "My_inbox/自我管理问题-script.md",
     "My_inbox/phd_怎么套磁.md",
     "test-文件夹/test-script.md",
@@ -287,7 +287,6 @@
     "My_inbox/《人生十年，不可辜负的20岁到30岁》.md",
     "003_Management/02_时间管理/2025-12-03.md",
     "My_inbox/读书笔记-MOC.md",
-    "My_inbox/《面厚心黑》.md",
     "assets/images/1765195957 1.jpeg",
     "assets/images/1765195957.jpeg",
     "assets/images/945763a7f9b284e3e48f82ab889cafa2.jpg",
