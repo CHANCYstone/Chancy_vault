@@ -1,10 +1,10 @@
 ---
-aliases: 
-created: '[[2025-12-10]]'
-🤔: 
-in: 
-up: 
-related: 
+aliases:
+created: "[[2025-12-10]]"
+🤔:
+in:
+up:
+related:
 author:
 ---
 # 🌲 Evergreen Note
