@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My_inbox/河南选调.md",
+                "file": "My_inbox/行测-逻辑.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "河南选调"
+              "title": "行测-逻辑"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My_inbox/河南选调.md",
+                "file": "My_inbox/行测-逻辑.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "河南选调 的大纲"
+              "title": "行测-逻辑 的大纲"
             }
           },
           {
@@ -256,13 +256,14 @@
   },
   "active": "b0218bd7b950e500",
   "lastOpenFiles": [
-    "My_inbox/行测-公基.md",
-    "My_inbox/河南选调.md",
+    "My_inbox/行测-moc.md",
     "My_inbox/如何学5个小时-script-动力增强.md",
+    "My_inbox/河南选调.md",
+    "My_inbox/投共一念起，顿觉天地宽-script.md",
+    "My_inbox/行测-公基.md",
     "My_inbox/对于考试的思考-script.md",
     "My_inbox/自我管理问题-script.md",
     "003_Management/02_时间管理/2025-12-11.md",
-    "My_inbox/行测-moc.md",
     "My_inbox/行测-数量.md",
     "My_inbox/行测-言语.md",
     "My_inbox/管理好陪伴女朋友的时间.md",
@@ -286,7 +287,6 @@
     "My_inbox/How are artificial intelligence, carbon market, and energy sector connected? A systematic analysis of time-frequency spillovers.md",
     "My_inbox/Focus in 21th.md",
     "My_inbox/career 研究.md",
-    "My_inbox/宁苑资产面试.md",
     "My_inbox/论文思路.canvas",
     "ssh-keygen -t ed25519 -C \"你的GitHub邮箱\"\u001b[D.pub",
     "ssh-keygen -t ed25519 -C \"你的GitHub邮箱\"\u001b[D",
