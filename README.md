@@ -1,0 +1,3 @@
+这是CHANCYstone 的obsidian写作vault
+
+所有的写作都上传到了github上，一是为了云储存。二是为了公开透明性。
