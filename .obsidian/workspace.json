@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My_inbox/如何学5个小时-script-动力增强.md",
+                "file": "My_inbox/注意力被偷走-script.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "如何学5个小时-script-动力增强"
+              "title": "注意力被偷走-script"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My_inbox/如何学5个小时-script-动力增强.md",
+                "file": "My_inbox/注意力被偷走-script.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "如何学5个小时-script-动力增强 的大纲"
+              "title": "注意力被偷走-script 的大纲"
             }
           },
           {
@@ -256,8 +256,8 @@
   },
   "active": "b0218bd7b950e500",
   "lastOpenFiles": [
-    "My_inbox/注意力被偷走-script.md",
     "My_inbox/如何学5个小时-script-动力增强.md",
+    "My_inbox/注意力被偷走-script.md",
     "My_inbox/行测-逻辑.md",
     "README.md",
     "My_inbox/行测-moc.md",
