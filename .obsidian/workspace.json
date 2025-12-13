@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My_inbox/行测-逻辑.md",
+                "file": "My_inbox/如何学5个小时-script-动力增强.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "行测-逻辑"
+              "title": "如何学5个小时-script-动力增强"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My_inbox/行测-逻辑.md",
+                "file": "My_inbox/如何学5个小时-script-动力增强.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "行测-逻辑 的大纲"
+              "title": "如何学5个小时-script-动力增强 的大纲"
             }
           },
           {
@@ -256,9 +256,11 @@
   },
   "active": "b0218bd7b950e500",
   "lastOpenFiles": [
+    "My_inbox/注意力被偷走-script.md",
+    "My_inbox/如何学5个小时-script-动力增强.md",
+    "My_inbox/行测-逻辑.md",
     "README.md",
     "My_inbox/行测-moc.md",
-    "My_inbox/如何学5个小时-script-动力增强.md",
     "My_inbox/河南选调.md",
     "My_inbox/投共一念起，顿觉天地宽-script.md",
     "My_inbox/行测-公基.md",
@@ -268,7 +270,6 @@
     "My_inbox/行测-数量.md",
     "My_inbox/行测-言语.md",
     "My_inbox/管理好陪伴女朋友的时间.md",
-    "My_inbox/行测-逻辑.md",
     "assets/images/49e4ea019b866ead5779d644221c850d.jpg",
     "003_Management/02_时间管理/2025-12-10.md",
     "003_Management/03-Projects/选调-调查研究.md",
@@ -286,7 +287,6 @@
     "My_inbox/values.md",
     "My_inbox/trash/Untitled 2.md",
     "My_inbox/How are artificial intelligence, carbon market, and energy sector connected? A systematic analysis of time-frequency spillovers.md",
-    "My_inbox/Focus in 21th.md",
     "My_inbox/论文思路.canvas",
     "ssh-keygen -t ed25519 -C \"你的GitHub邮箱\"\u001b[D.pub",
     "ssh-keygen -t ed25519 -C \"你的GitHub邮箱\"\u001b[D",
